@@ -9,6 +9,6 @@ Email: eragonj@hax4.in | jack.xxlong@gmail.com
 Blog: [My blue nowhere](http://eragonj.hax4.in)
 
 # License #
-If this tool is made by myself only ,then the license is [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
+If this tool is made by myself only, then ask me first xD.
 
 Otherwise, you have to follow the license announced in that tool.
