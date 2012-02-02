@@ -1,0 +1,6 @@
+#!/bin/bash
+# cca means compile coffeescripts all, It is a bash that can find through ROOT
+# directory into subdirectories and compile all *.coffee files into *.js within
+# the related path
+find . | grep ".coffee$" | xargs coffee -c
+
